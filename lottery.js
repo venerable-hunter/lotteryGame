@@ -16,15 +16,15 @@ var lives;
 
 
 function startGame(){
-    alert('start button clicked ');
-    console.log('button clicked');
+   // alert('start button clicked ');
+   // console.log('button clicked');
 
 
     //creating the random number
 
     var randm = Math.random()*15;
    random= Math.round(randm);
-    alert(random);
+    //alert(random);
 
 
     lives =3
