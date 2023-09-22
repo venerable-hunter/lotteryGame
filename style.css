@@ -1,0 +1,104 @@
+*{background-color:rgb(36, 34, 34) ;
+    /* background-color: #af5a228f; */
+    color:white;
+    padding: 0px;
+    margin: 0px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{padding: 3px;
+    margin-bottom: 10px;
+    background-color:#ffffff;
+    text-align: center;
+    font-size: ;
+    box-shadow: 5px 2px 4px rgb(0, 0, 0);
+    color:black;
+    text-align: center;
+
+}
+
+
+h3{
+    text-align: center;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    margin: 3vh;
+
+
+}
+
+#win{
+
+    font-size:x-large;
+    margin: 2vh;
+    color:aquamarine;
+    text-align: center;
+   
+}
+.life{
+    font-size: medium;
+    margin: 2vh;
+    text-align: center;
+
+}
+ul{
+    margin: 10vw;
+    
+}
+button{
+    padding:2vh;
+    border: 4px black;
+    border-radius: 5px;
+margin: 3vh;
+    background-color: rgb(15, 134, 98);
+}
+#start{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  
+}
+
+.lives{
+    text-align: center;
+    margin: 2vh;
+}
+label{
+    margin: 4vw;
+    margin-top: 4vh;
+    
+
+}
+
+input{
+    width: 30vh;
+    padding: 12px ;
+    border: 4px solid blude;
+    border-radius: 10px;
+    background-color: wheat;
+    border:24x rgb(149, 55, 129);
+    
+}
+#Guess{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+   
+}
+
+
+.result{box-shadow: 0 0 0;
+    background-color:rgb(36, 34, 34) ;
+    color: white;
+}
+
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
